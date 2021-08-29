@@ -3,6 +3,8 @@
 
 **本内容不做商用**
 
+**如有侵权，请发送邮件至`zhongzh20@mails.tsinghua.edu.cn`联系删除**
+
 ## Grade 1 Fall
 - 无机与分析化学
 - 生物化学（2）
